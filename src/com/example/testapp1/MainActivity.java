@@ -55,6 +55,7 @@ public class MainActivity extends Activity {
         tv2.setTypeface(tf2);
 
         String testStr = "Setec Astronomy";
+        testStr = "Setec Astronomy";
 
          testStr = "Setec Astronomy";
         Log.d("XSX", "***name: " + testStr);
