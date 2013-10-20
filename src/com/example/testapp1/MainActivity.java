@@ -148,6 +148,10 @@ public class MainActivity extends Activity {
 
   /*  UBUNTU METHODS SECTION  */
 
+    public void doThisUb(String dog) {
+        // nothing for now
+    }
+
     public String subStringSearch2(String str) {
         StringBuilder endStr = new StringBuilder();
 
