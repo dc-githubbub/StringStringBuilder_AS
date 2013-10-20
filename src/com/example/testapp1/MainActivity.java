@@ -118,6 +118,8 @@ public class MainActivity extends Activity {
 
     }
 
+   /*  ZATO METHODS SECTION  */
+
     public void doThis(String dog) {
         //TODO
 //        StringBuilder endStr = new StringBuilder(str).reverse();
@@ -142,23 +144,28 @@ public class MainActivity extends Activity {
         return returnSubstr;
     }
 
-    /*public String subStringSearch(String str) {
+
+
+  /*  UBUNTU METHODS SECTION  */
+
+    public String subStringSearch2(String str) {
         StringBuilder endStr = new StringBuilder();
 
         int sLength = str.length();
         String subStr = "";
-        String subStr = "";
         for (int i = 0; i < sLength / 2; i++) {
             subStr = str.substring(0,i);
-            endStr = str.substring(sLength-1,sLength-(1 + i));
+//            endStr = str.substring(sLength-1,sLength-(1 + i));
             endStr.reverse();
-            if (!subStr.equals(endStr.toString()) {
+            if (!subStr.equals(endStr.toString())) {
                 break;
             }
         }
         return subStr;
-    }*/
-    
+    }
+
+
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
