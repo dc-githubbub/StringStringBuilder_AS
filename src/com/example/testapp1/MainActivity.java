@@ -120,6 +120,9 @@ public class MainActivity extends Activity {
 
    /*  ZATO METHODS SECTION  */
 
+    public void doNewZato1(String dog) {
+        // nope
+    }
     public void doThis(String dog) {
         //TODO
 //        StringBuilder endStr = new StringBuilder(str).reverse();
