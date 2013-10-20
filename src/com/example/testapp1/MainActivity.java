@@ -155,6 +155,9 @@ public class MainActivity extends Activity {
         // nothing for now
     }
 
+    public void doNewUb2(String dog) {
+        // nope
+    }
     public String subStringSearch2(String str) {
         StringBuilder endStr = new StringBuilder();
 
