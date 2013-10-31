@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/txt3"
-        android:text="Roboto"
+        android:text="Rob"
         android:textColor="#ff5bc6ff"
         android:textSize="36sp"/>
 
