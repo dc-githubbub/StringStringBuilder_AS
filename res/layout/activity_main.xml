@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Roboto"
-        android:textSize="72sp" />
+        android:textSize="14sp" />
 
     <TextView
         android:id="@+id/txt2"
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/txt1"
         android:text="Roboto"
-        android:textSize="72sp" />
+        android:textSize="18sp" />
 
     <TextView
         android:id="@+id/txt3"
@@ -29,7 +29,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/txt2"
         android:text="Roboto"
-        android:textSize="72sp"/>
+        android:textSize="26sp"/>
 
     <TextView
         android:id="@+id/txt4"
@@ -38,7 +38,7 @@
         android:layout_below="@+id/txt3"
         android:text="Roboto"
         android:textColor="#ff5bc6ff"
-        android:textSize="72sp"/>
+        android:textSize="36sp"/>
 
 
     <TextView
@@ -47,7 +47,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/txt4"
         android:text="@string/app_name"
-        android:textSize="72sp" />
+        android:textSize="24sp" />
     
 </RelativeLayout>
 
