@@ -54,7 +54,16 @@
         android:id="@+id/txt6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/txt4"
+        android:layout_below="@+id/txt5"
+        android:text="Roboto"
+        android:textSize="28sp" />
+
+
+    <TextView
+        android:id="@+id/txt7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt6"
         android:text="Roboto"
         android:textSize="28sp" />
     
