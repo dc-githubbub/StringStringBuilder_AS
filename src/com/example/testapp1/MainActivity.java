@@ -83,6 +83,8 @@ public class MainActivity extends Activity {
         }
         Log.d("XSX", "***name: " + testStrBldr.toString());
         Log.d("XSX", "***name: " + testStrBldr.reverse().toString());
+        Log.d("XSX", "***name: " + testStrBldr.reverse().toString());
+        Log.d("XSX", "***name 22: " + testStrBldr.reverse().toString());
 
         
         String thisStr = "abcdkuyodcba";
